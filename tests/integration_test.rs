@@ -1,4 +1,4 @@
-use arch_rate_mirrors::Component;
+use sigmaos_rate_mirrors::Component;
 
 #[test]
 fn test_component_new_aaa() {

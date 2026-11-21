@@ -1,6 +1,6 @@
-# SigmaOS-arch-rate-mirrors
+# SigmaOS-rate-mirrors
 
-SigmaOS SigmaOS-arch-rate-mirrors component
+SigmaOS SigmaOS-rate-mirrors component
 
 - **Category:** Components
 - **Engine:** component

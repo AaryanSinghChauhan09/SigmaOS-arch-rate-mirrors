@@ -1,4 +1,4 @@
-//! SigmaOS-arch-rate-mirrors — arch-rate-mirrors component
+//! SigmaOS-rate-mirrors — rate-mirrors component
 //!
 //! Part of the SigmaOS multi-repository component ecosystem. This crate
 //! declares its interface in `COMPONENT.toml` (`provides` / `depends_on`).
